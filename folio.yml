@@ -1,0 +1,11 @@
+title: "Linux fork of quick share"
+description: >
+  I wanted to get quick share working on my linux desktop, since daily drive two linux systems
+  and quickshare would be a godsend for sharing files with my android devices.
+  Currently, the wifi medium is implemented and bluetooth medium is WIP. 
+  Google uses a lot of advanced C++ so this is a perfect opportunity for me to practice my 
+  C++ kills
+status: "ongoing" # one of: ongoing | abandoned | finished
+startedAt: "2024-10-01" # ISO dates are easiest
+thumbnail: "thumbnail.avif" # path inside repo OR full URL
+
