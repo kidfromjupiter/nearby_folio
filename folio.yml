@@ -8,4 +8,5 @@ description: >
 status: "ongoing" # one of: ongoing | abandoned | finished
 startedAt: "2024-10-01" # ISO dates are easiest
 thumbnail: "thumbnail.avif" # path inside repo OR full URL
+customRepo: https://github.com/kidfromjupiter/nearby
 
